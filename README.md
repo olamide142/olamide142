@@ -1,6 +1,6 @@
 ## Hi, I'm Victor Olowofeso
 
-🌐 **[olamide142.github.io](https://olamide142.github.io)** · 📄 [CV](https://olamide142.github.io/assets/Victor_Olowofeso_CV.pdf) · ✉️ [volowofeso@gmail.com](mailto:volowofeso@gmail.com)
+🌐 **[olamide142.github.io](https://olamide142.github.io)** · ✉️ [volowofeso@gmail.com](mailto:volowofeso@gmail.com)
 
 AI Systems Engineer and researcher building high-performance infrastructure for intelligent systems.
 
